@@ -9,11 +9,11 @@
   justify-content: center;
 }
 a {
+  color: #000;
+}
+.endlinks {
   padding: 10px;
 }
 .main_photos {
   margin: 10px;
-}
-a {
-  color: #000;
 }
