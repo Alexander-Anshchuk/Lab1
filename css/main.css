@@ -1,6 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 * {
-  font-family: "Pacifico", cursive;
+  font-family: cursive;
   font-size: 18px;
 }
 .col-4 {
@@ -10,6 +9,9 @@
 }
 a {
   color: #000;
+}
+a:hover {
+  color: red;
 }
 .endlinks {
   padding: 10px;
